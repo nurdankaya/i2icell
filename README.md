@@ -1,7 +1,7 @@
 # i2icell    
 Java, kafka, hazelcast, oracle database, voltdb, log4j, kryo serializer
 
-(Part of i2i Systems internchip project.)
+(Part of i2i Systems internship project.)
 (More info : https://github.com/oktayxpolat/i2i_Intern_2021_Project )
 
 
